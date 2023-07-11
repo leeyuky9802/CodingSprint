@@ -25,6 +25,7 @@
     <modules>
         <module>hibernate-xml</module>
         <module>hibernate-xml</module>
+        <module>hibernate-annotation</module>
     </modules>
 
     <dependencies>
